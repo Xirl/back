@@ -1,5 +1,5 @@
 FROM node
-LABEL name="vue-back"
+LABEL name="back"
 LABEL version="1.0"
 COPY . /app
 WORKDIR /app
